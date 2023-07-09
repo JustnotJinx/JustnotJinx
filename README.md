@@ -14,5 +14,5 @@
 </picture>
 
 
-![Languages and Tools](https://skillicons.dev/icons?i=php,html,css,js,lua,git,github,nodejs,vscode,discord,docker)
+![Languages and Tools](https://skillicons.dev/icons?i=php,html,css,js,nodejs,lua,git,github,vscode,discord,docker)
 
