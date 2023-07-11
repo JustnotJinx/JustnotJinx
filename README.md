@@ -13,5 +13,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=JustnotJinx&show_icons=true" />
 </picture>
 
-![Languages and Tools](https://skillicons.dev/icons?i=php,html,css,js,nodejs,lua,git,github,vscode,discord,docker)
+![Languages and Tools](https://skillicons.dev/icons?i=html,css,js,nodejs,lua,git,github,vscode,discord,docker)
 
